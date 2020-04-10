@@ -1,0 +1,10 @@
+name: sales
+title:
+username:
+account: sam2019
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2096343
+bundleId: 2997752
+url: https://sam2019.shinyapps.io/sales/
+when: 1586547894.87762
